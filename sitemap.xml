@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zxsun2022.github.io/posts/zh/my_opinion_web3/</loc>
+    <loc>https://zxsun.vercel.app/posts/zh/my_opinion_web3/</loc>
     <lastmod>2022-09-12T15:18:08+08:00</lastmod>
   </url><url>
-    <loc>https://zxsun2022.github.io/posts/</loc>
+    <loc>https://zxsun.vercel.app/posts/</loc>
     <lastmod>2022-09-12T15:18:08+08:00</lastmod>
   </url><url>
-    <loc>https://zxsun2022.github.io/</loc>
+    <loc>https://zxsun.vercel.app/</loc>
     <lastmod>2022-09-12T15:18:08+08:00</lastmod>
   </url><url>
-    <loc>https://zxsun2022.github.io/about/</loc>
+    <loc>https://zxsun.vercel.app/about/</loc>
     <lastmod>2022-09-12T15:09:18+08:00</lastmod>
   </url><url>
-    <loc>https://zxsun2022.github.io/categories/</loc>
+    <loc>https://zxsun.vercel.app/categories/</loc>
   </url><url>
-    <loc>https://zxsun2022.github.io/tags/</loc>
+    <loc>https://zxsun.vercel.app/tags/</loc>
   </url>
 </urlset>
